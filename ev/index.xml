@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Potato Traveler</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Potato Traveler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>potatotraveler@gmail.com (German Rivera De La Torre)</managingEditor>
+    <webMaster>potatotraveler@gmail.com (German Rivera De La Torre)</webMaster>
+    <copyright>© German Rivera De La Torre</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosplay</title>
+      <link>//localhost:1313/portraits/cosplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>potatotraveler@gmail.com (German Rivera De La Torre)</author>
+      <guid>//localhost:1313/portraits/cosplay/</guid>
+        <media:content url="//localhost:1313/portraits/cosplay/a1_hu_a1737fb35b9b4c7e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/portraits/cosplay/a1_hu_a1737fb35b9b4c7e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>People</title>
+      <link>//localhost:1313/portraits/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>potatotraveler@gmail.com (German Rivera De La Torre)</author>
+      <guid>//localhost:1313/portraits/people/</guid>
+        <media:content url="//localhost:1313/portraits/people/a1_hu_a1737fb35b9b4c7e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/portraits/people/a1_hu_a1737fb35b9b4c7e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
